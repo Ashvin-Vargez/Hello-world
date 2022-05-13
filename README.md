@@ -1,3 +1,4 @@
 # Hello-world
-First Repository- Don't know what this is.
+First Repository- 
+Tested out commands.
 Tell something about yourself.
